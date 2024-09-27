@@ -43,22 +43,22 @@ const SocialIcons = () => {
     return (
         <Dock>
             <DockIcon>
-                <Link href={"https://github.com/shashank-2310"} target='_blank' rel='noreferrer noopener'>
+                <Link href={"#"} target='_blank' rel='noreferrer noopener'>
                     <Icons.gitHub className="h-6 w-6" />
                 </Link>
             </DockIcon>
             <DockIcon>
-                <Link href={"https://twitter.com/shashankgupta_2"} target='_blank' rel='noreferrer noopener'>
+                <Link href={"#"} target='_blank' rel='noreferrer noopener'>
                     <Icons.twitter className="h-6 w-6" />
                 </Link>
             </DockIcon>
             <DockIcon>
-                <Link href={"https://www.instagram.com/shashank23.10/"} target='_blank' rel='noreferrer noopener'>
+                <Link href={"#"} target='_blank' rel='noreferrer noopener'>
                     <Icons.instagram className="h-6 w-6" />
                 </Link>
             </DockIcon>
             <DockIcon>
-                <Link href={"https://linkedin.com/in/shashankgupta23"} target='_blank' rel='noreferrer noopener'>
+                <Link href={"#"} target='_blank' rel='noreferrer noopener'>
                     <Icons.linkedin className="h-6 w-6" />
                 </Link>
             </DockIcon>
