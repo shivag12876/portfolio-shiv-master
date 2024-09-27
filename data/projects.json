@@ -31,22 +31,6 @@
             "live": "https://eventify-inky.vercel.app/"
         },
         {
-            "name": "Portfolio",
-            "shortdescription": "Innovative projects portfolio showcase",
-            "description": "Crafted using components from Magic UI, leveraging the power of Next.js, Tailwind CSS, and other innovative technologies.",
-            "image": "/portfolio.png",
-            "skills": [
-                "Next.js",
-                "Tailwind CSS",
-                "TypeScript",
-                "MagicUI",
-                "AceternityUI",
-                "NextUI"
-            ],
-            "github": "https://github.com/shashank-2310/portfolio",
-            "live": "https://shashankgupta-portfolio.vercel.app/"
-        },
-        {
             "name": "Deluxe Dhaba",
             "shortdescription": "an indian restaurant landing page",
             "description": "Discover Deluxe Dhaba: Where timeless Indian flavors blend seamlessly with contemporary dining, crafted with care in every dish. Experience authentic tastes and warm hospitality in every visit.",

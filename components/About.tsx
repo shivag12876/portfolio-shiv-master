@@ -12,7 +12,7 @@ const About = () => {
                     <h2 className='md:text-xl text-base text-center sm:text-left w-full text-gray-400 font-medium mb-3 uppercase'>who am i?</h2>
                     <div className="text-center sm:text-left flex flex-col gap-2">
                         <p>
-                            Hey there! I&apos;m Shashank Gupta, a passionate full-stack web developer with a knack for crafting pixel-perfect UIs. My journey into the world of web development began with a love for solving problems and creating seamless user experiences.
+                            Hey there! I&apos;m Shivam Gupta, a passionate full-stack web developer with a knack for crafting pixel-perfect UIs. My journey into the world of web development began with a love for solving problems and creating seamless user experiences.
                         </p>
                         <p>
                             When I&apos;m not coding, you can often find me immersed in my other passions. I enjoy listening to music - it&apos;s the backdrop to my coding adventures. I also have a soft spot for anime, where I find inspiration in its creativity and storytelling.
