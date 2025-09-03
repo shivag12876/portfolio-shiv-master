@@ -24,12 +24,7 @@ export default function Footer() {
                 </div>
                 <div className="flex flex-col items-center md:items-end gap-4">
                     <h4 className="text-lg font-medium">Follow Me</h4>
-                    <div className="flex-center gap-4 lg:gap-6">
-                        <Link href={"https://www.linkedin.com/in/shashankgupta944"} className="size-6" target='_blank' rel='noreferrer noopener'><Icons.linkedin /></Link>
-                        <Link href={"https://www.instagram.com/shashank23.10/"} className="size-6" target='_blank' rel='noreferrer noopener'><Icons.instagram /></Link>
-                        <Link href={"https://twitter.com/shashankgupta_2"} className="size-6" target='_blank' rel='noreferrer noopener'><Icons.twitter /></Link>
-                        <Link href={"https://wa.link/e727fo"} className="size-6" target='_blank' rel='noreferrer noopener'><Icons.whatsapp /></Link>
-                    </div>
+                    
                 </div>
             </div>
             <div className="w-full mt-6 text-center text-sm sm:text-base">
